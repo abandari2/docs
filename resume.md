@@ -59,4 +59,5 @@ permalink: /resume
 
 
 ```Place: Hyderabad```
+
 ```Date:  27/11/2018                       				                               (Abhishek Bandari)```
