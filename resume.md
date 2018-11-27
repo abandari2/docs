@@ -55,9 +55,9 @@ permalink: /resume
 * **Team Size**       :	20
 * **Role**            :    DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
 
-**In view of my qualifications mentioned above, I am confident of coming up to your expectations.
+**In view of my qualifications mentioned above, I am confident of coming up to your expectations.**
 
 
-Place: Hyderabad
+```Place: Hyderabad```
 
-Date:  27/11/2018                       				                               (Abhishek Bandari)
+```Date:  27/11/2018                       				                               (Abhishek Bandari)```
