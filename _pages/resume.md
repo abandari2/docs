@@ -1,7 +1,9 @@
 ---
+title: "RESUME"
+excerpt: "Resume"
 layout: default
 permalink: /resume
----
+--- 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
