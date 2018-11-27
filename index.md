@@ -17,7 +17,7 @@ layout: default
 
 **Technical Skills**
 
-* **Software Languages** :  YAML, POWERSHELL SCRIPTING, SHELL SCRIPTING, PYTHON(Basic).
+* **Software Languages** :  [YAML](https://en.wikipedia.org/wiki/YAML), [POWERSHELL SCRIPTING](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6), [SHELL SCRIPTING](https://en.wikipedia.org/wiki/Shell_script), [PYTHON-Basics](https://www.python.org/).
 * **Operating system**   :  LINUX/UNIX (Centos, Ubuntu, RedHat), Windows XP.
 * **Applications**       :  ANSIBLE, DOCKER, JENKINS, GIT, AWS, VMware, CONFLUENCE, SLACK, RAFFIA and JIRA.
                                                                    
