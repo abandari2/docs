@@ -18,13 +18,13 @@ layout: default
 **Technical Skills**
 
 * **Software Languages** :  [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"}, [POWERSHELL SCRIPTING](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6){:target="_blank"}, [SHELL SCRIPTING](https://en.wikipedia.org/wiki/Shell_script){:target="_blank"}, [PYTHON-Basics](https://www.python.org/){:target="_blank"}.
-* **Operating system**   :  LINUX/UNIX (Centos, Ubuntu, RedHat), Windows XP.
-* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GIT, AWS, VMware, CONFLUENCE, SLACK, RAFFIA and JIRA.
+* **Operating system**   :  LINUX/UNIX (Centos, Ubuntu, SunOs, RedHat), WINDOWS.
+* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GITHUB, VMware, CONFLUENCE, SLACK, RAFFIA and JIRA.
                                                                    
 
 **Professional Summary**
 
-* Overall 2+ years of IT Experience, proven success as an Associate Professional (Jan 2016 – till date) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC).
+* Overall 3 years of IT Experience, proven success as an Associate Professional (Jan 2016 – till date) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC).
 *	Direct hands on Ansible, VMware, Docker & Jenkins. Developed Various Playbooks for Infrastructure Automation in many Platforms (dxc internal global).
 *	Experience in developing scripts in yaml (playbooks), shell scripting, PowerShell.
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
@@ -57,4 +57,4 @@ layout: default
 
 ```Place: Hyderabad```
 
-```Date:  27/11/2018                       				                               (Abhishek Bandari)```
+```Date:  01/12/2018                       				                               (Abhishek Bandari)```
