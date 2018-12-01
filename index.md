@@ -3,6 +3,8 @@ layout: default
 --- 
 # RESUME
 
+**ABHISHEK BANDARI**
+
 * **Email id**	: abhishekbandari460@gmail.com
 * **Mobile**	: +91 9908063103
 * **DOB**       : 21-02-1993
@@ -19,7 +21,7 @@ layout: default
 
 * **Software Languages** :  [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"}, [POWERSHELL SCRIPTING](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6){:target="_blank"}, [SHELL SCRIPTING](https://en.wikipedia.org/wiki/Shell_script){:target="_blank"}, [PYTHON-Basics](https://www.python.org/){:target="_blank"}.
 * **Operating system**   :  LINUX/UNIX (Centos, Ubuntu, SunOs, RedHat), WINDOWS.
-* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GITHUB, VMware, CONFLUENCE, SLACK, RAFFIA and JIRA.
+* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GITHUB, VMware, CONFLUENCE, SLACK, RAFFIA, PROTRACTOR and JIRA.
                                                                    
 
 **Professional Summary**
