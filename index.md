@@ -26,7 +26,7 @@ layout: default
 
 **Professional Summary**
 
-* Overall 3 years of IT Experience, proven success as an Associate Professional (Jan 2016 – till date) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC).
+* Overall 3.4 years of IT Experience, proven success as an Associate Professional (Jan 2016 – till date) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC).
 *	Direct hands on Ansible, VMware, Docker & Jenkins. Developed Various Playbooks for Infrastructure Automation in many Platforms (dxc internal global).
 *	Experience in developing scripts in yaml (playbooks), shell scripting, PowerShell.
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
@@ -59,4 +59,4 @@ layout: default
 
 ```Place: Hyderabad```
 
-```Date:  01/12/2018                       				                               (Abhishek Bandari)```
+```Date:  05/05/2019                       				                               (Abhishek Bandari)```
