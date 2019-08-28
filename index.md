@@ -26,7 +26,7 @@ layout: default
 
 **Professional Summary**
 
-* Overall 3.7 years of IT Experience, proven success as an Associate Professional (Jan 2016 – June 2019) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC) and as an Application Analyst (June 2019 - till date).
+* Overall 3.7 years of IT Experience, proven success as an Associate Professional (Jan 2016 – June 2019) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC) and as an Application Analyst (June 2019 - till date) at Accenture.
 *	Direct hands on Ansible, VMware, Docker, Splunk & Jenkins. Developed Various Playbooks for Infrastructure Automation in many Platforms (dxc internal global).
 *	Experience in developing scripts in yaml (playbooks), shell scripting, PowerShell.
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
