@@ -8,7 +8,7 @@ layout: default
 * **Email id**	: abhishekbandari460@gmail.com
 * **Mobile**	: +91 9908063103
 * **DOB**       : 21-02-1993
-* **GitHub**	: [https://github.dxc.com/abandari2](https://github.dxc.com/abandari2)
+* **GitHub**	: [https://github.com/abandari2](https://github.com/abandari2)
 
 **Educational Details**
 
