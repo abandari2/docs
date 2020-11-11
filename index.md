@@ -21,12 +21,12 @@ layout: default
 
 * **Software Languages** :  [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"}, [POWERSHELL SCRIPTING](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6){:target="_blank"}, [SHELL SCRIPTING](https://en.wikipedia.org/wiki/Shell_script){:target="_blank"}, [PYTHON-Basics](https://www.python.org/){:target="_blank"}.
 * **Operating system**   :  LINUX/UNIX (Centos, Ubuntu, SunOs, RedHat), WINDOWS.
-* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GITHUB, BitBucket, VMware, CONFLUENCE, MICROSOFT TEAMS, SPLUNK, PROTRACTOR and JIRA.
+* **Applications**       :  ANSIBLE, DOCKER, JENKINS, GITHUB, BitBucket, VMware, CONFLUENCE, MICROSOFT TEAMS, SPLUNK, PROTRACTOR, TERRAFORM and JIRA.
                                                                    
 
 **Professional Summary**
 
-* Overall 3.7 years of IT Experience, proven success as an Associate Professional (Jan 2016 – June 2019) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC) and as an Application Analyst (June 2019 - till date) at Accenture.
+* Overall 4.11 years of IT Experience, proven success as an Associate Professional (Jan 2016 – June 2019) in DXC TECHNOLOGIES INDIA PVT.LTD (Formerly known as CSC) and as an Application Analyst (June 2019 - till date) at Accenture.
 *	Direct hands on Ansible, VMware, Docker, Splunk & Jenkins. Developed Various Playbooks for Infrastructure Automation in many Platforms (dxc internal global).
 *	Experience in developing scripts in yaml (playbooks), shell scripting, PowerShell.
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
