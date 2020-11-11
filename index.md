@@ -61,7 +61,7 @@ layout: default
 * **Organization**    :	Accenture Technology
 * **Account**         : Confidential Client
 * **Description**     :	In this project, we designed two playbook jobs in Ansible Tower to automate the activity. Splunk plays vital role here. Initially SCOM monitors the servers in the environment. If something broken/not working it will raise an alert, that data on live will be pushed to splunk. Splunk 1st alert will look for such cases, if any open alerts it will trigger validation job. Validation job on tower will do the validation by connecting to that target server and validates it to eliminate false alerts to become incidents. Now genuine alerts only become incidents. Splunk alert will look for any open state new incidents for that alert, if so will trigger healing job on the tower, which will perform healing activities and resolves the incidents automatically.
-* **Domain**          : Automation using ANSIBLE, GitHub, VMware and RAFFIA.
+* **Domain**          : Automation using ANSIBLE, BitBucket, Splunk, SNOW, REST API's.
 * **Team Size**       :	6
 * **Role**            : DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
 
