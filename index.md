@@ -39,7 +39,7 @@ layout: default
 * **Project Name**    :  Linux SOE Dashboard
 * **Organization**    :	 Accenture Technology
 * **Account**         :  Confidential Client
-* **Description**     :	 In this project, I designed a playbook in Ansible to automate soe parameters of the servers. This playbook is in cron job will be executed automatically in evry night and pushes the data to splunk using splunk api. Thus, it will display live dashboard each day for all servers.
+* **Description**     :	 In this project, I designed a playbook in Ansible to automate soe parameters of the servers. This playbook is in cron job will be executed automatically every night and pushes the data to splunk using splunk api. Thus, it will display live dashboard each day for all servers.
 * **Domain**          :  Automation using ANSIBLE, BitBucket, Splunk.
 * **Team Size**       :	 6
 * **Role**            :  DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
@@ -54,9 +54,20 @@ layout: default
 * **Team Size**       :	20
 * **Role**            : DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
 
+
+**PROJECT 3:**									
+                                    
+* **Project Name**    : Auto ticketing and healing heartbeat alerts Tickets
+* **Organization**    :	Accenture Technology
+* **Account**         : Confidential Client
+* **Description**     :	In this project, we designed two playbook jobs in Ansible Tower to automate the activity. Splunk plays vital role here. Initially SCOM monitors the servers in the environment. If something broken/not working it will raise an alert, that data on live will be pushed to splunk. Splunk 1st alert will look for such cases, if any open alerts it will trigger validation job. Validation job on tower will do the validation by connecting to that target server and validates it to eliminate false alerts to become incidents. Now genuine alerts only become incidents. Splunk alert will look for any open state new incidents for that alert, if so will trigger healing job on the tower, which will perform healing activities and resolves the incidents automatically.
+* **Domain**          : Automation using ANSIBLE, GitHub, VMware and RAFFIA.
+* **Team Size**       :	6
+* **Role**            : DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
+
 **In view of my qualifications mentioned above, I am confident of coming up to your expectations.**
 
 
-```Place: Bengaluru```
+```Place: Hyderabad```
 
-```Date:  05/08/2019                       				                               (Abhishek Bandari)```
+```Date:  11/11/2020                       				                               (Abhishek Bandari)```
