@@ -31,7 +31,11 @@ layout: default
 *	Experience in developing scripts in yaml (playbooks), shell scripting, PowerShell.
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
 *	Active Member of virtual teams IAC (Infrastructure as code) and BAT (Build a thon).
+*	Managed large infrastructure with Ansible Tower - windows (5K+) & Linux (5K+) including on-premises and cloud.
+*	Worked on Rest APIs with tools like Tower, ServiceNow, Splunk etc. for Auto validation, Auto ticketing, Auto Healing and Proactive Healing with Tower Jobs.  
 *	Involved in review meetings with the Project Manager and participated in technical discussions regarding the issues in the project.
+*	Received appreciations & awards from clients for dedicated contribution in their automation journeys.
+*	Received ACE award in Accenture for FY2020-Q3 contribution & monitory award for Accenture for core values. 
 
 **PROJECT 1:**									
                                     
