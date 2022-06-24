@@ -32,19 +32,8 @@ layout: default
 *	Worked with various teams within the program to integrate code, fix defects, code reviews, and performance improvements.
 *	Active Member of virtual teams IAC (Infrastructure as code) and BAT (Build a thon).
 *	Involved in review meetings with the Project Manager and participated in technical discussions regarding the issues in the project.
-     
 
-**PROJECT 1:**
-	
-* **Project Name**    :  Linux SOE Dashboard
-* **Organization**    :	 Accenture Technology
-* **Account**         :  Confidential Client
-* **Description**     :	 In this project, I designed a playbook in Ansible to automate soe parameters of the servers. This playbook is in cron job will be executed automatically every night and pushes the data to splunk using splunk api. Thus, it will display live dashboard each day for all servers.
-* **Domain**          :  Automation using ANSIBLE, BitBucket, Splunk.
-* **Team Size**       :	 6
-* **Role**            :  DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
-
-**PROJECT 2:**									
+**PROJECT 1:**									
                                     
 * **Project Name**    : VM Ware Manage
 * **Organization**    :	DXC TECHNOLOGIES INDIA PVT.LTD.
@@ -55,7 +44,7 @@ layout: default
 * **Role**            : DEVOPS ENGINEER-ANSIBLE PLAYBOOKS DEVELOPER.
 
 
-**PROJECT 3:**									
+**PROJECT 2:**									
                                     
 * **Project Name**    : Auto ticketing and healing heartbeat alerts Tickets
 * **Organization**    :	Accenture Technology
@@ -70,4 +59,4 @@ layout: default
 
 ```Place: Hyderabad```
 
-```Date:  11/11/2020                       				                               (Abhishek Bandari)```
+```Date:  24/06/2022                       				                               (Abhishek Bandari)```
