@@ -1,7 +1,7 @@
 ---
 layout: default
 --- 
-# RESUME
+# Get2Gether 
 
 **ABHISHEK BANDARI**
 
