@@ -3,6 +3,7 @@
 ## Paid List
 
 * 1) Abhishek
+  2) Jayakrishna
 
  --------------
- *Total* 1500/-
+ *Total* 3000/-
