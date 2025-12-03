@@ -7,6 +7,7 @@
 * 3) Mounika 463
 * 4) Sravya
 * 5) Revathi
+* 6) Anjali
 
  --------------
- *Total* 7,500/-
+ *Total* 9,000/-
