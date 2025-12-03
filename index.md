@@ -1,6 +1,6 @@
 # Get2Gether Event Collections
 
-##Paid List
+## Paid List
 
 * 1) Abhishek
 * 
