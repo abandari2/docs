@@ -10,6 +10,7 @@
 * 6) Anjali
 * 7) Mounika 461
 * 8) Ramya
+* 9) Rithej
 
  --------------
- *Total* 12,000/-
+ *Total* 13,500/-
