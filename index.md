@@ -11,6 +11,7 @@
 * 7) Mounika 461
 * 8) Ramya
 * 9) Rithej
+* 10) Suresh
 
  --------------
- *Total* 13,500/-
+ *Total* 15,000/-
