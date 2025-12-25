@@ -13,6 +13,7 @@
 * 9) Rithej
 * 10) Suresh
 * 11) Saikrishna
+* 12) Prashanth
 
  --------------
- *Total* 16,500/-
+ *Total* 18,000/-
