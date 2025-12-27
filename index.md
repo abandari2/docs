@@ -31,4 +31,8 @@ Bank & branch: ICICI Bank - Madhapur
 
 * 1500/- per person (Your partner and children allowed)
 
-* Last date is 6th Jan 2026
+* Last date for payment collection is 6th Jan 2026
+
+* Event is in Peddapally on 25th Jan 2026 (Sunday)
+
+* Venue details can be updated by Jan 12th
