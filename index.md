@@ -35,4 +35,4 @@ Bank & branch: ICICI Bank - Madhapur
 
 * Event is in Peddapally on 25th Jan 2026 (Sunday)
 
-* Venue details can be updated by Jan 12th
+* Venue details will be updated by Jan 12th 2026.
