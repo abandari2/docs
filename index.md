@@ -17,3 +17,18 @@
 
  --------------
  *Total* 18,000/-
+
+---------------
+* *Account details:* 
+```
+A/c No. 004001625270
+IFSC: ICIC0000040
+Name: ABHISHEK BANDARI
+Bank & branch: ICICI Bank - Madhapur
+```
+
+* *PhonePe/ Gpay:* Abhishek 9908063103
+
+* 1500/- per person (Your partner and children allowed)
+
+* Last date is 6th Jan 2026
