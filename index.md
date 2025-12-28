@@ -14,9 +14,10 @@
 * 10) Suresh
 * 11) Saikrishna
 * 12) Prashanth
+* 13) Pranay
 
  --------------
- *Total* 18,000/-
+ *Total* 19,500/-
 
 ---------------
 * *Account details:* 
