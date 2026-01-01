@@ -16,9 +16,10 @@
 * 12) Prashanth
 * 13) Pranay
 * 14) Mounika 479
+* 15) Mahesh
 
  --------------
- *Total* 21,000/-
+ *Total* 22,500/-
 
 ---------------
 * *Account details:* 
