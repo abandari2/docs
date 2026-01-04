@@ -17,9 +17,10 @@
 * 13) Pranay
 * 14) Mounika 479
 * 15) Mahesh
+* 16) Sruthi & Prem
 
  --------------
- *Total* 22,500/-
+ *Total* 24,000/-
 
 ---------------
 * *Account details:* 
