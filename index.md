@@ -18,9 +18,10 @@
 * 14) Mounika 479
 * 15) Mahesh
 * 16) Sruthi & Prem
+* 17) Ch.Mounika 467
 
  --------------
- *Total* 24,000/-
+ *Total* 25,500/-
 
 ---------------
 * *Account details:* 
