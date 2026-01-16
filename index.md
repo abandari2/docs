@@ -7,7 +7,7 @@
 * 3) Mounika 463
 * 4) Sravya
 * 5) Revathi
-* 6) Anjali
+* 6) Anjali => dropped as not available, refunded back 1000/-. Contributed 500/- for donation.
 * 7) Mounika 461
 * 8) Ramya
 * 9) Rithej
@@ -21,7 +21,7 @@
 * 17) Ch.Mounika 467
 
  --------------
- *Total* 25,500/-
+ *Total* 24,500/-
 
 ---------------
 * *Account details:* 
@@ -40,4 +40,4 @@ Bank & branch: ICICI Bank - Madhapur
 
 * Event is in Peddapally on 25th Jan 2026 (Sunday)
 
-* Venue details will be updated by Jan 12th 2026.
+* Venue: Trinity College
